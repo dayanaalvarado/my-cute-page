@@ -1,0 +1,159 @@
+
+
+/* HEADER FONDO */
+
+.section-uno{
+	background-image: url(../images/fondo1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 500px;
+	}
+
+
+/* HEADER LINKS */
+.lista{
+	display: inline-block;
+	text-decoration: none;
+	text-align:center;
+	padding-left: 40px;
+	padding-top: 30px;
+	padding-bottom: 40px;
+	font-size: 36px;
+	font-weight: bolder;
+	font-family: 'Amatic SC', cursive;
+}
+
+ul{
+	margin-left: 270px;
+}
+
+/* logo y texto */
+.logo-texto{
+	color: #A80BB3;
+letter-spacing: 5px;
+margin-top: 150px;
+text-align: center;
+font-family: 'Chewy', cursive;
+}
+.logo{
+	width:100px;
+	height: 100px;
+}
+
+.texto-h1{
+;
+	font-size: 40px;
+	font-weight: bolder;
+}
+
+.texto-h3{
+		font-size: 40px;
+	font-weight: bolder;
+}
+
+/* fondo section 2  */
+.container-dos{
+	background-image: url(../images/tile1.png);
+	background-position: center;
+	height: 450px;
+}
+
+/* section 2 imagen izquierda */
+
+.profileuno{
+	width: 250px;
+	height: 250px;
+	margin-left: 170px;
+	margin-top: 120px;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+/* section 2 texto lorem */
+.lorem-uno{
+	font-size: 15px;
+	margin-top: 23px;
+	padding-right: 130px;
+	font-family: arial;
+}
+
+/* section 2 about titulo */
+.about{
+	padding-top: 60px;
+	padding-left: 160px;
+	font-family: 'Amatic SC', cursive;
+	font-size: 33px;
+	font-weight: bolder;
+}
+
+
+/* section 3  titulos contenedor */
+
+.favo{
+	margin-top: 80px;
+	text-align: center;
+}
+
+/* section 3  favoritus */
+.favoriutes{
+	padding-bottom: 15px;
+	font-size: 33px;
+	font-weight: bolder;
+	font-family: 'Amatic SC', cursive;
+}
+
+
+/* section 3  here */
+.here{
+font-size: 25px;
+font-stretch: semi-expanded;
+letter-spacing: 2px;
+font-weight: bolder;
+	font-family: 'Amatic SC', cursive;
+
+}
+
+/* section 3  fotos circulos */
+.circulos{
+	border-radius: 200px;
+	width: 200px;
+	height: 200px;
+	border: 2px solid gray;
+	padding: 4px;
+}
+
+/* section 3  contenedor fotos circulos */
+
+.circulo{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+/* contenedor footer */
+
+.container-footer{
+	background-image: url(../images/tile2.png);
+	background-position: center;
+	height: 300px;
+}
+
+/* contenedor de logos */
+.el-footer{
+	margin-left: 400px;
+}
+/*  logos */
+.logos{
+	margin-right: 40px;
+	margin-top: 40px;
+}
+
+
+/*  texto contact */
+.contact{
+	font-family: 'Amatic SC', cursive;
+	font-size: 33px;
+	font-weight: bolder;
+	padding-top: 60px;
+	padding-left:580px; 
+}
